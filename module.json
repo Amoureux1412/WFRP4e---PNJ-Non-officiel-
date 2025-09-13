@@ -13,7 +13,6 @@
       "path": "packs/acteurs",
       "type": "Actor",
       "ownership": {
-        "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
       "system": "wfrp4e",
@@ -25,11 +24,12 @@
       "path": "packs/journaux",
       "type": "JournalEntry",
       "ownership": {
-        "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
       "system": "wfrp4e",
       "flags": {}
     }
-  ]
+  ],  
+  "manifest": "https://raw.githubusercontent.com/Amoureux1412/WFRP4e---PNJ-Non-officiel-/refs/heads/main/module.json",
+  "download": "https://github.com/Amoureux1412/WFRP4e---PNJ-Non-officiel-/raw/refs/heads/main/zip.zip"
 }
