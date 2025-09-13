@@ -1,0 +1,33 @@
+{
+  "id": "wfrp4e-pnj-non-officiel",
+  "title": "WFRP4e - PNJ (non officiel)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "acteurs",
+      "label": "Acteurs",
+      "path": "packs/acteurs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e"
+    },
+    {
+      "name": "journaux",
+      "label": "Journaux",
+      "path": "packs/journaux",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e"
+    }
+  ]
+}
