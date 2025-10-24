@@ -11,5 +11,11 @@ V1.03
   * Juges & Avocats
 - Urbains
   * Citadins
+  * Services urbains fréquents et usuels
+    - Apothicaires
+    - Artisans
+    - Clergé de Shallya
+    - Marchands
+    - Médecins
 - Ruraux
   * Villageois
