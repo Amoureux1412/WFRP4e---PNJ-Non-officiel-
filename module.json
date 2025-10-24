@@ -1,10 +1,10 @@
 {
   "id": "wfrp4e-pnj-non-officiel",
   "title": "WFRP4e - PNJ (non officiel)",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "packs": [
     {
