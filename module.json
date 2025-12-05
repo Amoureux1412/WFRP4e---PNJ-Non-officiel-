@@ -1,7 +1,8 @@
 {
   "id": "wfrp4e-pnj-non-officiel",
   "title": "WFRP4e - PNJ (non officiel)",
-  "version": "1.0.4",
+  "description": "Une collection de PNJ, carrières et objets.",
+  "version": "1.0.6",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -13,7 +14,20 @@
       "path": "packs/acteurs",
       "type": "Actor",
       "ownership": {
+		"PLAYER": "NONE",
         "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e",
+      "flags": {}
+    },
+	{
+      "name": "objets",
+      "label": "Objets",
+      "path": "packs/objets",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "NONE",
+		"ASSISTANT": "OWNER"
       },
       "system": "wfrp4e",
       "flags": {}
@@ -24,10 +38,23 @@
       "path": "packs/journaux",
       "type": "JournalEntry",
       "ownership": {
+		"PLAYER": "NONE",  
         "ASSISTANT": "OWNER"
       },
       "system": "wfrp4e",
       "flags": {}
+    }
+  ], 
+"packFolders": [
+    {
+      "name": "PNJ (Non officiel)",
+      "sorting": "m",
+      "color": "#3fa706",
+      "packs": [
+        "acteurs",
+        "objets",
+        "journaux"
+      ]
     }
   ],  
   "manifest": "https://raw.githubusercontent.com/Amoureux1412/WFRP4e---PNJ-Non-officiel-/refs/heads/main/module.json",
