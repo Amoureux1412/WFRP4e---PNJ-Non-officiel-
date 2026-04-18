@@ -1,16 +1,21 @@
 # WFRP4e---PNJ-Non-officiel-
-Incorporation du pdf PNJ de Frenchy (rectifiÃ© par Alex7785) pour le systÃ¨me de Foundry VTT avec l'aide de Qwadjir
+Incorporation du pdf PNJ de Frenchy (rectifié par Alex7785) pour le système de Foundry VTT avec l'aide de Qwadjir
 
-V1.06
+V1.03
 - La loi et l'ordre
   * Hommes du Guet
   * Gardes
   * Patrouilleurs routiers
   * Patrouilleurs fluviaux
-  * RÃ©purgateurs
+  * Répurgateurs
   * Juges & Avocats
 - Urbains
   * Citadins
-  * Services urbains frÃ©quents et usuels (Grande PrÃªtresse de Verena en attente de correctifs)
+  * Services urbains fréquents et usuels
+    - Apothicaires
+    - Artisans
+    - Clergé de Shallya
+    - Marchands
+    - Médecins
 - Ruraux
   * Villageois

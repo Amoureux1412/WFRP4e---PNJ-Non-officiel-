@@ -2,10 +2,10 @@
   "id": "wfrp4e-pnj-non-officiel",
   "title": "WFRP4e - PNJ (non officiel)",
   "description": "Une collection de PNJ, carrières et objets.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14"
   },
   "packs": [
     {
